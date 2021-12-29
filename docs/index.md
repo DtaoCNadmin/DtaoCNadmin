@@ -1,9 +1,3 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DtaoCNadmin/DtaoCNadmin/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-just test
-
-kkkk
+[![C](https://s4.ax1x.com/2021/12/29/TghaxP.jpg)](https://imgtu.com/i/TghaxP)
